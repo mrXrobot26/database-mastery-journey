@@ -2,9 +2,7 @@
 
 This repository documents my 3-year journey to mastering databases. Follow the steps to gain a deep understanding of SQL, problem-solving, and database engineering concepts.
 
-
-![2](https://github.com/user-attachments/assets/287f4cfe-3692-4c68-99d6-8ac8e7b2deff)
-
+![2](https://github.com/user-attachments/assets/203c74db-aa20-44c7-91e1-208535b1e552)
 
 ## 📚 Learning Path Overview
 
@@ -27,9 +25,10 @@ This repository documents my 3-year journey to mastering databases. Follow the s
    - LeetCode Top SQL 50 Problems: [Study Plan](https://leetcode.com/studyplan/top-sql-50/)
    - My Solutions: [GitHub Repo](https://github.com/mrXrobot26/SQL-50)
 
-5. **Database Fundamentals**
+5. **Database Internals**
 
-   - Fundamentals of Database Engineering by Eng. Hussein Nasser: [Udemy Course](https://www.udemy.com/course/database-engines-crash-course/?couponCode=KEEPLEARNING)
+   - Fundamentals of Database Engineering by Eng. Hussein Nasser (covers database internals): [Udemy Course](https://www.udemy.com/course/database-engines-crash-course/?couponCode=KEEPLEARNING)
+   - Database Internals by Eng. Amr El-Helw (Free on YouTube): [Playlist](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF)
 
 6. **Advanced Topics**
 
@@ -45,4 +44,8 @@ This repository documents my 3-year journey to mastering databases. Follow the s
 
 ---
 
-Follow me for more programming content: [GitHub](https://github.com/mrXrobot26) 
+Follow me for more programming content: [GitHub](https://github.com/mrXrobot26) | [Facebook](https://www.facebook.com/abdo.elbessa10) | [LinkedIn](https://www.linkedin.com/in/bess-gates/) | [Twitter](https://x.com/MrXroboT)
+
+\
+
+
