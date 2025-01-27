@@ -46,6 +46,6 @@ This repository documents my 3-year journey to mastering databases. Follow the s
 
 Follow me for more programming content: [GitHub](https://github.com/mrXrobot26) | [Facebook](https://www.facebook.com/abdo.elbessa10) | [LinkedIn](https://www.linkedin.com/in/bess-gates/) | [Twitter](https://x.com/MrXroboT)
 
-\
+
 
 
